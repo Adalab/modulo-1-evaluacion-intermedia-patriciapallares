@@ -1,7 +1,5 @@
 :root {
-    /* fonts */
     font-family: 'Rubik', sans-serif;
-    /* colors */
     --gris: #4a4a4a;
     --azul: #3CDBC0;
 }
@@ -26,7 +24,6 @@
     font-size: 16px;
     font-weight: 300;
     color: var(--gris);
-    font-family: 'Rubik', sans-serif;
     padding: 10px;
 }
 
@@ -77,4 +74,5 @@
     .slogan {
         font-size: 40px;
         line-height: 40px;
+        transform: none;
     }
