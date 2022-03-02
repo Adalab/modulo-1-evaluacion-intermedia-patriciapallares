@@ -55,6 +55,7 @@
 
 @media all and (min-width: 768px) {
 
+    /* cabecera */
     .header {
         display: flex;
         flex-direction: row;
@@ -71,8 +72,11 @@
         padding-top: 25px;
     }
 
+    /* main */
+
     .slogan {
         font-size: 40px;
         line-height: 40px;
         transform: none;
     }
+
