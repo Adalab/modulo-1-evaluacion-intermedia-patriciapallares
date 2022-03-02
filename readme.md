@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Patricia</h1>
-<h3 align="center">Estoy intentando crear un Readme con un generador online 😄</h3>
+<h3 align="center">He creado un Readme con un generador online 😄</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
