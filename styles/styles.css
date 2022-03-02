@@ -5,3 +5,53 @@
     --gris: #4a4a4a;
     --azul: #3CDBC0;
 }
+
+/* cabecera */
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+.logo {
+    width: 155px;
+    margin: 10px 0;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--gris);
+    font-family: 'Rubik', sans-serif;
+    padding: 10px;
+}
+
+/* main */
+
+.main {
+    background-color: var(--azul);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slogan {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 600;
+    position: relative;
+    transform: translate(0 , -50%);
+}
+
+.slogan * {
+    padding: 5px;
+}
